@@ -14,6 +14,7 @@ Repository Structure:
         - Several PDF files related to the BIRCH model
         - scikit-learn BIRCH model source code
         - The PDF version of our BIRCH presentation
+        - List of appendix resources in PDF
     
 
 Notes:
