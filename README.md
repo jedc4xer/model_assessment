@@ -11,11 +11,15 @@ Team Members:
 Repository Structure:
 
     research_appendix
-        - Several PDF files related to the BIRCH model
-        - scikit-learn BIRCH model source code
-        - The PDF version of our BIRCH presentation
-        - List of appendix resources in PDF
-    
+        - Everything related to Birch research.
+        
+    XG_Boost_Research
+        - Research gathered by XGBoost team in prior session.
+        
+    XGBoost Algorithm Presentation.pdf
+        - The PDF version of our powerpoint slides.
+        
+    xgb_final_script.ipynb
+        - The notebook containing the finalized code for the project.
 
-Notes:
 
